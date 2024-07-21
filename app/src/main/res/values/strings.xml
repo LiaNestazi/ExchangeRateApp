@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exchange Rate App</string>
+    <string name="hint">Введите сумму</string>
+    <string name="currency_converter">Конвертер валют</string>
+    <string name="amount">Сумма для конвертации</string>
+    <string name="from">Из</string>
+    <string name="to">в</string>
+    <string name="convert">Конвертировать</string>
+    <string name="result">Результат конвертации</string>
+    <string name="equals">=</string>
+    <string name="api">На основе данных из:\nhttps://api.currencybeacon.com/</string>
+    <string name="convert_next">Конвертировать еще</string>
+</resources>
