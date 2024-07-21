@@ -1,7 +1,7 @@
 # Exchange Rate App
 Приложение для конвертации валют, поддерживает 160 различных валют.
 
-Создано с использованием API: https://api.currencybeacon.com/, запросы: currencies/ и convert/{from}/{to}/{amount}. 
+Создано с использованием API: [https://api.currencybeacon.com/v1/](https://currencybeacon.com/), запросы: currencies/ и convert/{from}/{to}/{amount}. 
 Данный API был выбран в виду его доступности, понятности документации и большого кол-ва бесплатных запросов.
 
 Реализовано на Kotlin + XML.
